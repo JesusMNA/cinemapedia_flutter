@@ -1,3 +1,2 @@
-# cinemapedia
-
-A new Flutter project.
+# cinemapedia_flutter
+Cinemapedia practice app with Flutter
