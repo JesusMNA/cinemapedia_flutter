@@ -1,2 +1,2 @@
 # cinemapedia_flutter
-Cinemapedia practivce app with Flutter
+Cinemapedia practice app with Flutter
