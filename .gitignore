@@ -5,6 +5,7 @@
 *.swp
 *.png
 *.jpg
+*.env
 .DS_Store
 .atom/
 .buildlog/
